@@ -65,13 +65,18 @@ body {
 ul,
 h1,
 h2,
-p {
+p,
+h3 {
   font-family: "Rubik", sans-serif;
+  color: #555;
 }
 
 ul {
-  list-style-type: square;
   font-size: 14px;
+}
+
+li {
+  list-style-type: disc;
 }
 
 h1 {
