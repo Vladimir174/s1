@@ -62,6 +62,16 @@ body {
   color: #555;
 }
 
+.menu {
+  position: fixed;
+  top: 1rem;
+  left: 1rem;
+  width: 100%;
+  border-radius: 0.2rem;
+  background-color: rgba(rgb(222, 223, 238), green, blue, 50);
+}
+  
+
 ul,
 h1,
 h2,
