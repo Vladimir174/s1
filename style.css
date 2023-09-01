@@ -67,8 +67,9 @@ body {
   top: 1rem;
   left: 1rem;
   width: 100%;
+  height: 2rem;
   border-radius: 0.2rem;
-  background-color: rgba(rgb(222, 223, 238), green, blue, 50);
+  background-color: rgba(125, 128, 175, 0.897);
 }
   
 
